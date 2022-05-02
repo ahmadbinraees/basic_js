@@ -26,3 +26,9 @@ console.log("This is a Book Name : " , BookName);
 console.log("This is SomeOne Address : " , someOneAddress);
 
 
+// boolean var
+var isNameTom = true;
+var isCool = false;
+
+console.log("Some ones name is Tom = ",isNameTom);
+console.log("Today Weather is hot = ",isCool);
