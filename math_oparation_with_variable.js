@@ -12,7 +12,14 @@ var digitG = 14;
 var addition = digitA + digitB;
 console.log("2 + 4 = ",addition);
 
+
 // subtraction
 
 var subtraction = digitF - digitC;
 console.log("12 - 6 =",subtraction);
+
+
+// multiplication
+
+var multiplication = digitA * digitB;
+console.log("2 x 4 = ",multiplication);
