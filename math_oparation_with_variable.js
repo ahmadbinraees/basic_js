@@ -6,20 +6,27 @@ var digitD = 8;
 var digitE = 10;
 var digitF = 12;
 var digitG = 14;
+var digitH = 16;
 
 // addition
 
-var addition = digitA + digitB;
-console.log("2 + 4 = ",addition);
+var addition = digitA + digitC;
+console.log("2 + 6 = ",addition);
 
 
 // subtraction
 
-var subtraction = digitF - digitC;
-console.log("12 - 6 =",subtraction);
+var subtraction = digitF - digitB;
+console.log("12 - 4 =",subtraction);
 
 
 // multiplication
 
 var multiplication = digitA * digitB;
 console.log("2 x 4 = ",multiplication);
+
+
+
+
+
+
