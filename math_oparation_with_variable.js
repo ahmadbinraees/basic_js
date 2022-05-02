@@ -26,7 +26,10 @@ var multiplication = digitA * digitB;
 console.log("2 x 4 = ",multiplication);
 
 
+// division
 
+var division = digitH / digitA;
+console.log("16 / 2 = ",division);
 
 
 
