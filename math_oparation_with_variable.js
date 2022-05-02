@@ -7,3 +7,8 @@ var digitE = 10;
 var digitF = 12;
 var digitG = 14;
 
+// addition
+
+var addition = digitA + digitB;
+console.log("2 + 4 = ",addition);
+
