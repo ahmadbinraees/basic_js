@@ -11,7 +11,11 @@ let fullName = firstName + " " + nickName;
 let imamName = firstName + " " + lastName;
 let withFather = firstName + " " + titleName;
 
-console.log(formalName);
+let age = 23;
+let cellNo = +880-1303-281462;
+const personalMail = "ahmadbinraees@gmail.com";
+const gihubId = "https://github.com/ahmadbinraees";
+/* console.log(formalName);
 console.log(fullName);
 console.log(imamName);
-console.log(withFather);
+console.log(withFather); */
