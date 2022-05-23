@@ -15,6 +15,7 @@ let age = 23;
 let cellNo = +880-1303-281462;
 const personalMail = "ahmadbinraees@gmail.com";
 const gihubId = "https://github.com/ahmadbinraees";
+const fbLink = "https://www.facebook.com/ahmadbinraees/";
 /* console.log(formalName);
 console.log(fullName);
 console.log(imamName);
