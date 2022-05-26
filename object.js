@@ -8,3 +8,13 @@ let tonuData = {
     gmail:"ahmadullahbinraees@gmail.com",
     fbLink: "https://www.facebook.com/ahmadbinraees/",
 };
+
+
+let aMobile = {
+    mobileName: "Nova-S",
+    model: "N-34F",
+    color: "Blue",
+    weight: "69 G",
+    battery: "3000 mah",
+    price: "34k",
+};
