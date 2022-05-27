@@ -18,3 +18,14 @@ let aMobile = {
     battery: "3000 mah",
     price: "34k",
 };
+
+console.log(aMobile);
+
+// to see a property value of an object.
+var prp = aMobile.mobileName;
+console.log(prp);
+
+// there is another way to see a property value.
+
+var brb = aMobile["price"];
+console.log(brb);
