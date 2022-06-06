@@ -13,6 +13,7 @@
 ''''''''''''''''''''''''''''''''''''''''''''' VARIABLE ''''''''''''''''''''''''''''''''''''''''''''
 
 A Variable is a container what is contain data, info and values.
+The value of the variable could be change.
 
 - five things to do for declare a variable.
 - 1-- write variable key like "var", "let", "const".
