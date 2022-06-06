@@ -30,3 +30,35 @@ There is three types of variable :-
 - 3-- Boolean
 
 ---------------------------------------------------------------------------------------------------*/
+
+// Now i declaring a variable with "var" key;
+
+// this is a numerical variable
+var applePrice = 25;
+
+// this is a string variable (string value must be into single quot or double quot)
+var fruitName = "Apple";
+
+// these are boolean variable
+var isHot = true;
+var isCool = false;
+
+
+// console area 
+// 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
