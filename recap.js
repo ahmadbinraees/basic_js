@@ -45,7 +45,11 @@ var isCool = false;
 
 
 // console area 
-// 
+// we can see output of those variable by console
+console.log("This is apple price = ", applePrice);
+console.log("This is a fruit name = ", fruitName);
+console.log("Today is hot: True or False? =",isHot);
+console.log("Today is cold: True or False? =",isCool)
 
 
 
