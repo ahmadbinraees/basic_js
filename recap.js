@@ -71,7 +71,10 @@ var yourFirstName = "Your First Name";
 var yourFatherName = "Your Father Name";
 var yourCatAge = 2;
 
+// more and more;
+var theNameOfCatSchool = "Miyaw Miyaw Miyaw";
 
+// but we should take the name short as can as possible; 
 
 
 
