@@ -79,6 +79,21 @@ var theNameOfCatSchool = "Miyaw Miyaw Miyaw";
 
 /* ''''''''''''''''''''''''''''''''''' SIMPLE MATHEMATIC '''''''''''''''''''''''''''''''' */
 
+// in the console, we can use it to output a value . can also math;
+console.log("This is Multiplication of 3 X 3 =", 3*3);
+
+// but i learned , how to use variable. so i have to use variable;
+let digitZero = 0;
+let digitOne = 1;
+let digitTow = 2;
+let digitThree = 3;
+let digitFour = 4;
+let digitFive = 5;
+let digitSix = 6;
+let digitSeven = 7;
+let digitEight = 8;
+let digitNine = 9;
+let digitTen = 10;
 
 
 
