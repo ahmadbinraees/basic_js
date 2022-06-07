@@ -54,7 +54,7 @@ console.log("Today is cold: True or False? =",isCool)
 
 
 
-/* '''''''''''''''''''''''''''''''''''''  naming convention ''''''''''''''''''''''''''''''''''''' */
+/* '''''''''''''''''''''''''''''''''''''  NAMING CONVENTION ''''''''''''''''''''''''''''''''''''' */
 
 // the variable name should be small case letter.
 // no number using at start.
@@ -75,6 +75,12 @@ var yourCatAge = 2;
 var theNameOfCatSchool = "Miyaw Miyaw Miyaw";
 
 // but we should take the name short as can as possible; 
+
+
+/* ''''''''''''''''''''''''''''''''''' SIMPLE MATHEMATIC '''''''''''''''''''''''''''''''' */
+
+
+
 
 
 
