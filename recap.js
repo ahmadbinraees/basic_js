@@ -95,6 +95,24 @@ let digitEight = 8;
 let digitNine = 9;
 let digitTen = 10;
 
+// addition
+const addition = digitZero + digitThree;
+
+// subtraction
+const subtraction = digitEight - digitFive;
+
+// multiplication
+const multiplication = digitThree * digitOne;
+
+// division
+const division = digitSix / digitTow;
+
+// console area;
+console.log("Zero + Three (0 + 3) =",addition);
+console.log("Eight - Five (8 - 5) =",subtraction);
+console.log("Three X One (3 X 1) =", multiplication);
+console.log("Six / Two (6 / 2) =", division);
+
 
 
 
