@@ -66,6 +66,11 @@ var yourName = "Your Name";
 var yourAge = 21;
 var redMango = true;
 
+// three word;
+var yourFirstName = "Your First Name";
+var yourFatherName = "Your Father Name";
+var yourCatAge = 2;
+
 
 
 
