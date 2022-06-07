@@ -54,7 +54,7 @@ console.log("Today is cold: True or False? =",isCool)
 
 
 
-
+/* ''''''''''''''''''''''''''''''''''''''''''  naming convention ''''''''''''''''''''''''''''''''''''''''' */
 
 
 
