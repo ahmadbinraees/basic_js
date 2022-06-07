@@ -54,12 +54,17 @@ console.log("Today is cold: True or False? =",isCool)
 
 
 
-/* ''''''''''''''''''''''''''''''''''''''''''  naming convention ''''''''''''''''''''''''''''''''''''''''' */
+/* '''''''''''''''''''''''''''''''''''''  naming convention ''''''''''''''''''''''''''''''''''''' */
 
 // the variable name should be small case letter.
 // no number using at start.
 // no space between two or more than two word name. and dash , comma , etc sym also.
 // if the name is two or more than two word, then the name should be written in camel case.
+
+// camel case example: (two word);
+var yourName = "Your Name";
+var yourAge = 21;
+var redMango = true;
 
 
 
